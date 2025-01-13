@@ -8,13 +8,13 @@ This is where I keep all my python projects
 
 
 ### 99 Bottles 
-**Summary**: 
-**Key take awways**:
+**Summary**: Prints out the 99 bottles song
+**Key take awways**: Coding shoud be fun and not evreything you code has to be useful. 
 
 
 ### Guess the number 
-**Summary**: 
-**Key take awways**:
+**Summary**: You have to guess the number that the computer chose
+**Key take awways**: 
 
 
 ### Rock Paper Scissors 
