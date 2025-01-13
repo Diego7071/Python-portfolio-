@@ -18,10 +18,10 @@ This is where I keep all my python projects
 
 
 ### Rock Paper Scissors 
-**Summary**: 
-**Key take awways**:
+**Summary**: you play a game of RSP with the computer
+**Key take awways**: Let me get more experinece with coding and all of the things i have learned. 
 
 
 ### Math Quiz 
-**Summary**: 
-**Key take awways**:
+**Summary**: Quizes you on math(you can choose the number of questions given and the difficulty)
+**Key take awways**: This program made me uses all of the things that i have learbed so far and just showed me all of the different things that i can make happen in a coe and was just fun to code and to see how far i have come. 
