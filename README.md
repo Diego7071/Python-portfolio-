@@ -14,7 +14,7 @@ This is where I keep all my python projects
 
 ### Guess the number 
 **Summary**: You have to guess the number that the computer chose
-**Key take awways**: 
+**Key take awways**: Let me use random and showed me how you can make a little game just witha little coding. 
 
 
 ### Rock Paper Scissors 
