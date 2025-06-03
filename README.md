@@ -29,35 +29,34 @@ This is where I keep all my python projects
 
 
 
+### Random Image
+**Summary**: Gives you a random movie recommendation
+
+**Key take awways**: Gave me more experience with random and lists   
+
+
+
 ### Rock Paper Scissors 
 **Summary**: you play a game of RSP with the computer
 
 **Key take awways**: Let me get more experinece with coding and all of the things i have learned. 
 
 
+### Magic 8 ball
+**Summary**: Is a magic 8 ball in code
 
-### 
-**Summary**: 
-
-**Key take awways**: 
-
-
-
-### 
-**Summary**: 
-
-**Key take awways**: 
+**Key take awways**: Gave me more experience with random and lists 
 
 
 
 ### music recommender
-**Summary**: 
+**Summary**: Recommends a song based on the users inputs
 
-**Key take awways**: 
+**Key take awways**: My first project done by myself with no help. It helped me with learning how to probelm solve.  
 
 
 
-### 
-**Summary**: 
+### Slot Machine
+**Summary**: A slot mackine in code 
 
-**Key take awways**: 
+**Key take awways**: coding should be fun and made me think of how the user will experince the code. 
