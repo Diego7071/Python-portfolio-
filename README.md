@@ -2,16 +2,17 @@
 This is where I keep all my python projects 
 
 
+### 99 Bottles 
+**Summary**: Prints out the 99 bottles song
+
+**Key take awways**: Coding shoud be fun and not evreything you code has to be useful. 
+
+
 ### Digital scene code 
 **Summary**: This program draws out a scene of a farm using turtle
 
 **Key take awways**: This program was a group project and taught me how to work with others while coding. 
 
-
-### 99 Bottles 
-**Summary**: Prints out the 99 bottles song
-
-**Key take awways**: Coding shoud be fun and not evreything you code has to be useful. 
 
 
 ### Guess the number 
