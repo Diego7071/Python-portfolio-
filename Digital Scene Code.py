@@ -2,7 +2,7 @@
 #Yareli Vergara, Matti Wachalski, and Diego Torres
 
 #Initialization
-<img src="./assets/image.gif"/>file:///C:/Users/dtorres100/Downloads/DigitalSceneVideo-ezgif.com-video-to-gif-converter.gif 
+
 import turtle
 yareli = turtle.Turtle()
 yareli.speed(10)
