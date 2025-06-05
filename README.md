@@ -8,8 +8,10 @@ This is where I keep all my python projects
 **Key take awways**: Coding shoud be fun and not evreything you code has to be useful. 
 
 
-### Digital scene code 
-![Alt text](file:///C:/Users/dtorres100/Downloads/DigitalSceneVideo-ezgif.com-video-to-gif-converter.gif)
+### Digital scene code
+
+![DigitalSceneVideo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/631fa483-4fb0-445c-9969-aba6d91392eb)
+
 **Summary**: This program draws out a scene of a farm using turtle
 
 **Key take awways**: This program was a group project and taught me how to work with others while coding. 
